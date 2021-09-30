@@ -10,7 +10,7 @@
  
 </head>
 <body>
- https://rociovanesa.github.io/inforvis2021/PASO2021.html
+ https://rociovanesa.github.io/Inforvis2021/PASO2021.html
 <div class="container">
   <h2>W36: What do Americans think about abortion?</h2>
   <div class="panel panel-default">

@@ -1,4 +1,4 @@
-# Inforvis2021
+# Infovis2021
 
 <!DOCTYPE html>
 <html lang="en">

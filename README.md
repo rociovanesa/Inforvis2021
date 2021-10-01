@@ -15,7 +15,7 @@
   <h2>W36: What do Americans think about abortion?</h2>
   <div class="panel panel-default">
    <ul>
-     <li>Week 36</li>
+     <li><a href="https://rociovanesa.github.io/Inforvis2021/MOM2021Week36.html">MOM2021Week36</a></li></li>
     </ul>
   </div>
 </div>

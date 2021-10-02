@@ -31,7 +31,7 @@
   <h2>TP: CHACO PASO 2021</h2>
   <div class="panel panel-default">
    <ul>
-    <li><a TARGET="_BLANK" href="https://rociovanesa.github.io/Inforvis2021/CHACOPASO2021.HTML">CHACO PASO 2021</a></li>
+    <li><a TARGET="_BLANK" href="https://rociovanesa.github.io/Inforvis2021/CHACOPASO2021.html">CHACO PASO 2021</a></li>
     </ul>
   </div>
 </div>

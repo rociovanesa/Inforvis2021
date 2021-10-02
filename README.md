@@ -28,10 +28,10 @@
   </div>
 </div>
  <div class="container">
-  <h2>W38: Dark Web Price Index 2021</h2>
+  <h2>TP: CHACO PASO 2021</h2>
   <div class="panel panel-default">
    <ul>
-    <li><a href="https://rociovanesa.github.io/Inforvis2021/MOM2021W38.html">MOM2021W38</a></li>
+    <li><a TARGET="_BLANK" href="https://rociovanesa.github.io/Inforvis2021/CHACOPASO2021.html">MOM2021W38</a></li>
     </ul>
   </div>
 </div>
